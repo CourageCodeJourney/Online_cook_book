@@ -78,11 +78,13 @@ div img{
 .content{
     gap:40px;
     display: flex;
+}
+
+.content2 {
     text-align: center;
     display: block; /* Change from flex to block */
     width: 100%; /* Ensure full width */
 }
-
 
 .right-top{
     border-radius: 10px;
