@@ -44,10 +44,6 @@ Contributions to the Online Cook Book project are welcome! If you have any sugge
 4. Push your changes to your forked repository.
 5. Open a pull request to the main repository, describing the changes you've made.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for personal or commercial purposes. See the [LICENSE](LICENSE) file for more details.
-
 ---
 
 Thank you for visiting the Online Cook Book repository! Enjoy exploring new recipes and happy cooking! If you have any questions or feedback, feel free to contact us.
