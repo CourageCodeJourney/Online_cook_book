@@ -116,3 +116,36 @@ ul{
 .steps-container{
     padding:0 20px 0px 20px;
 }
+
+.search button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50; /* Adjust background color if needed */
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px; /* Add border radius for rounded corners */
+ }
+
+ .search {
+    margin-bottom: 20px;
+    display: flex;
+  }
+  
+  .search input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    flex-grow: 1;
+    margin-right: 10px;
+  }
+  
+  .search button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
